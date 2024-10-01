@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **rashmantri2003@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/17p5aIYDaCY_NkxxNR52c63V4lVjrT_Z2/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wmA4vShH6xhFpu60fA7ME3GVlhyaFAxh/view?usp=sharing)
 
 - ⚡ Fun fact **I love coding and solving puzzles!**
 
