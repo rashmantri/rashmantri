@@ -11,7 +11,8 @@
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1wmA4vShH6xhFpu60fA7ME3GVlhyaFAxh/view?usp=sharing)
 
 - ⚡ Fun fact **I love coding and solving puzzles!**
-
+- 🛠️ I'm profficient in Frontend Development : ReactJs, Redux-Toolkit, React-Router, Context-API and React-Router
+- 🌱 I’m currently learning Backend in JS (Typescript, NodeJs, ExpressJs, Mongoose and MongoDB)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/rashmi-mantri-736345226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi-mantri-736345226" height="30" width="40" /></a>
